@@ -1,0 +1,1514 @@
+
+html {
+	font-size:62.5%;
+  /* width: 100% */
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+  
+}.main_container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fffaf6;
+
+}
+.main_container .header_container {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan {
+  box-sizing: border-box;
+  padding: 3.8rem 5.961rem 3.7rem 6rem;
+  width: 100%;
+  height: 12.5rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.main_container .header_container .header-Dan .content-Dan .Logo_ {
+  margin: 0.75rem 48.7rem 0.75rem 0rem;
+  height: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .Logo_ .Logo_0 {
+  margin-right: 4.6rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .Logo_ .Logo_0 .Logo_1 {
+  margin-right: 1.2rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .Logo_ .Logo_0 .beautyness-Xpd {
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #141414;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .Logo_ .call_ {
+  margin: 0.6rem 0;
+  height: calc(100% - 1.2rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .Logo_ .call_ .vector_ {
+  margin: 0.05rem 1.2rem 0rem 0rem;
+  width: 2.0888rem;
+  height: 2.0928rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .Logo_ .call_ .call_us {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.018rem;
+  color: #141414;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .auto_group3 {
+  box-sizing: border-box;
+  padding: 1.35rem 3.35rem 1.35rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .auto_group3 .menu- {
+  margin-right: 3.15rem;
+  width: 44.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .auto_group3 .menu- .chevron-down-c7K {
+  width: 0.8rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 14.5rem;
+  top: 1.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .auto_group3 .menu- .home-pages-about-services-contact {
+  width: 44.9rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #555555;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-pages-about-services-contact{
+  gap: space-between;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .auto_group3 .icon-9Ff {
+  margin: 0.2rem 0rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .auto_group3 .icon-9Ff .item--UHw {
+  margin-right: 3.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .auto_group3 .icon-9Ff .item--m29 {
+  margin-right: 3.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .auto_group3 .icon-9Ff .item--fdK {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .button-nhw {
+  box-sizing: border-box;
+  padding: 1.6rem 3.25rem 1.6rem 3.3rem;
+  width: 19.95rem;
+  height: 100%;
+  background-color: #7a9ca5;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .button-nhw .reservation-KC5 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .button-nhw .reservation-KC5 .icon-sUV {
+  margin-right: 1.15rem;
+  width: 1.35rem;
+  height: 1.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main_container .header_container .header-Dan .content-Dan .menu-item-bCD .button-nhw .reservation-KC5 .reservation-1qb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .header_container .background-WGZ {
+  box-sizing: border-box;
+  padding: 19.85rem 71.7rem 19.9rem 71.8rem;
+  width: 100%;
+  height: 49.5rem;
+  background-color: #1d2b2f;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/auto-group-frg9.png');
+  flex-shrink: 0;
+}
+.main_container .header_container .background-WGZ .content-ETT {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.main_container .header_container .background-WGZ .content-ETT .the-beauty-team-PLM {
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5449999491;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .header_container .background-WGZ .content-ETT .beautyness-experts-6Vf {
+  text-align: center;
+  font-size: 5.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.055rem;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body {
+  box-sizing: border-box;
+  padding: 12.85rem 36rem 15rem 36rem;
+  width: 100%;
+  height: 163rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body {
+  width: 100%;
+  height: 100%;
+  row-gap: 3.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.main_container .mainContainer_body .Container_body .title-GHf {
+  margin: 0 31.4rem;
+  width: calc(100% - 62.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .title-GHf .our_experts1 {
+  margin-bottom: 0.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5449999491;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #5c8692;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .title-GHf .amazing_women1 {
+  max-width: 57.2rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2999999152;
+  letter-spacing: -0.045rem;
+  color: #141414;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j {
+  width: 100%;
+  height: 56.9rem;
+  display: flex;
+  column-gap: 4.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w {
+  width: 37rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .image-JtZ {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  background-color: #d0d0d0;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .image-JtZ .auto_group1 {
+  width: 37rem;
+  height: 35rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .content-CDF {
+  margin: 0 2.8rem;
+  width: calc(100% - 5.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .content-CDF .name-jys {
+  margin: 0rem 6.8rem 0.7rem 6.8rem;
+  width: calc(100% - 13.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .content-CDF .name-jys .sherlin-dcruz-5Xw {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #141414;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .content-CDF .name-jys .beautyness_ex1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5449999491;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #5c8692;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .content-CDF .content-Kx5 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .content-CDF .content-Kx5 .i-must-explain-to-you-how-all-this-mistaken-idea-of-denouncing-pleasure-that-will-araise-praising-pain-QTj {
+  margin-bottom: 2.3rem;
+  max-width: 31.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6000000636;
+  color: #555555;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .content-CDF .content-Kx5 .icon-gg9 {
+  margin: 0rem 10.85rem 0rem 10.65rem;
+  width: calc(100% - 21.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .content-CDF .content-Kx5 .icon-gg9 .item--pGZ {
+  margin-right: 3.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .content-CDF .content-Kx5 .icon-gg9 .item--j8d {
+  margin-right: 3.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-1-m7w .content-CDF .content-Kx5 .icon-gg9 .item--eWV {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm {
+  width: 37rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .image-hzZ {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  background-color: #d0d0d0;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .image-hzZ .auto_group2 {
+  width: 37rem;
+  height: 35rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .content-CwK {
+  margin: 0 2.8rem;
+  width: calc(100% - 5.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .content-CwK .name-kxq {
+  margin: 0rem 6.3rem 0.7rem 6.3rem;
+  width: calc(100% - 12.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .content-CwK .name-kxq .maria-sharapova-grV {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #141414;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .content-CwK .name-kxq .beautyness-expert-D5j {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5449999491;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #5c8692;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .content-CwK .content-LAM {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .content-CwK .content-LAM .i-must-explain-to-you-how-all-this-mistaken-idea-of-denouncing-pleasure-that-will-araise-praising-pain-thf {
+  margin-bottom: 2.3rem;
+  max-width: 31.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6000000636;
+  color: #555555;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .content-CwK .content-LAM .icon-Nsj {
+  margin: 0rem 10.85rem 0rem 10.65rem;
+  width: calc(100% - 21.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .content-CwK .content-LAM .icon-Nsj .item--KHB {
+  margin-right: 3.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .content-CwK .content-LAM .icon-Nsj .item--Ef3 {
+  margin-right: 3.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-2-Yrm .content-CwK .content-LAM .icon-Nsj .item--m9B {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 {
+  width: 37rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .image-2au {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  background-color: #d0d0d0;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .image-2au .auto_group4 {
+  width: 37rem;
+  height: 35rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .content-iTj {
+  margin: 0 2.8rem;
+  width: calc(100% - 5.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .content-iTj .name-4Xb {
+  margin: 0rem 6.8rem 0.7rem 6.8rem;
+  width: calc(100% - 13.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .content-iTj .name-4Xb .angeline-jenifer-C81 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #141414;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .content-iTj .name-4Xb .beautyness-expert-haZ {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5449999491;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #5c8692;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .content-iTj .content-otV {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .content-iTj .content-otV .i-must-explain-to-you-how-all-this-mistaken-idea-of-denouncing-pleasure-that-will-araise-praising-pain-m4d {
+  margin-bottom: 2.3rem;
+  max-width: 31.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6000000636;
+  color: #555555;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .content-iTj .content-otV .icon-TCM {
+  margin: 0rem 10.85rem 0rem 10.65rem;
+  width: calc(100% - 21.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .content-iTj .content-otV .icon-TCM .item--zCH {
+  margin-right: 3.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .content-iTj .content-otV .icon-TCM .item--WRX {
+  margin-right: 3.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-1-d1j .item-3-sT7 .content-iTj .content-otV .icon-TCM .item--2uf {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT {
+  width: 100%;
+  height: 56.9rem;
+  display: flex;
+  column-gap: 4.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 {
+  width: 37rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .image-FGd {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  background-color: #d0d0d0;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .image-FGd .auto_group5 {
+  width: 37rem;
+  height: 35rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .content-YmX {
+  margin: 0 2.8rem;
+  width: calc(100% - 5.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .content-YmX .name-hPX {
+  margin: 0rem 6.8rem 0.7rem 6.8rem;
+  width: calc(100% - 13.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .content-YmX .name-hPX .bonham-carter-2Au {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #141414;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .content-YmX .name-hPX .beautyness-expert-Yf3 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5449999491;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #5c8692;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .content-YmX .content-GL9 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .content-YmX .content-GL9 .i-must-explain-to-you-how-all-this-mistaken-idea-of-denouncing-pleasure-that-will-araise-praising-pain-2q7 {
+  margin-bottom: 2.3rem;
+  max-width: 31.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6000000636;
+  color: #555555;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .content-YmX .content-GL9 .icon-KpD {
+  margin: 0rem 10.85rem 0rem 10.65rem;
+  width: calc(100% - 21.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .content-YmX .content-GL9 .icon-KpD .item--fdB {
+  margin-right: 3.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .content-YmX .content-GL9 .icon-KpD .item--hpm {
+  margin-right: 3.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-1-tS5 .content-YmX .content-GL9 .icon-KpD .item--E41 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M {
+  width: 37rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .image-6M7 {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  background-color: #d0d0d0;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .image-6M7 .auto_group6 {
+  width: 37rem;
+  height: 35rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .content-yvh {
+  margin: 0 2.8rem;
+  width: calc(100% - 5.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .content-yvh .name-w6q {
+  margin: 0rem 6.8rem 0.7rem 6.8rem;
+  width: calc(100% - 13.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .content-yvh .name-w6q .evanna-lynch-4x9 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #141414;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .content-yvh .name-w6q .beautyness-expert-CHf {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5449999491;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #5c8692;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .content-yvh .content-jHb {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .content-yvh .content-jHb .i-must-explain-to-you-how-all-this-mistaken-idea-of-denouncing-pleasure-that-will-araise-praising-pain-hVK {
+  margin-bottom: 2.3rem;
+  max-width: 31.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6000000636;
+  color: #555555;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .content-yvh .content-jHb .icon-bKo {
+  margin: 0rem 10.85rem 0rem 10.65rem;
+  width: calc(100% - 21.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .content-yvh .content-jHb .icon-bKo .item--jS1 {
+  margin-right: 3.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .content-yvh .content-jHb .icon-bKo .item--rFj {
+  margin-right: 3.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-2-k2M .content-yvh .content-jHb .icon-bKo .item--xpZ {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf {
+  width: 37rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .image-En5 {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  background-color: #d0d0d0;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .image-En5 .auto_group7 {
+  width: 37rem;
+  height: 35rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .content-jyj {
+  margin: 0 2.8rem;
+  width: calc(100% - 5.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .content-jyj .name-GCy {
+  margin: 0rem 6.8rem 0.7rem 6.8rem;
+  width: calc(100% - 13.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .content-jyj .name-GCy .natalia-tena-zPs {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #141414;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .content-jyj .name-GCy .beautyness-expert-JvM {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5449999491;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #5c8692;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .content-jyj .content-qQV {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .content-jyj .content-qQV .i-must-explain-to-you-how-all-this-mistaken-idea-of-denouncing-pleasure-that-will-araise-praising-pain-Pgu {
+  margin-bottom: 2.3rem;
+  max-width: 31.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6000000636;
+  color: #555555;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .content-jyj .content-qQV .icon-HXP {
+  margin: 0rem 10.85rem 0rem 10.65rem;
+  width: calc(100% - 21.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .content-jyj .content-qQV .icon-HXP .item--DR3 {
+  margin-right: 3.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .content-jyj .content-qQV .icon-HXP .item--YCR {
+  margin-right: 3.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .mainContainer_body .Container_body .item-2-LfT .item-3-gVf .content-jyj .content-qQV .icon-HXP .item--TaH {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.088rem;
+  text-transform: uppercase;
+  color: #141414;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .footer_m {
+  width: 100%;
+  height: 66.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content {
+  width: 191.9rem;
+  height: 66.2rem;
+  position: absolute;
+  left: 0.05rem;
+  top: 0;
+}
+.main_container .footer_m .footer_content .background-3YV {
+  width: 191.9rem;
+  height: 56rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #1d2b2f;
+}
+.main_container .footer_m .footer_content .content-P6Z {
+  width: 120rem;
+  height: 59.6rem;
+  position: absolute;
+  left: 36rem;
+  top: 6.6rem;
+  row-gap: 5.2rem;
+  display: flex;
+  flex-direction: column;
+}
+.main_container .footer_m .footer_content .content-P6Z .beauty-hsw {
+  margin-right: 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .beauty-hsw .logo-qz9 {
+  margin-right: 65rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .beauty-hsw .logo-qz9 .logo-Q1f {
+  margin-right: 1.7rem;
+  box-sizing: border-box;
+  padding: 1.431rem 1.451rem 1.182rem 0.985rem;
+  height: 100%;
+  border: solid 0.5rem #5c8692;
+  border-radius: 3.25rem;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .beauty-hsw .logo-qz9 .logo-Q1f .leaf-io3 {
+  width: 4.0643rem;
+  height: 3.8872rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.main_container .footer_m .footer_content .content-P6Z .beauty-hsw .logo-qz9 .beautyness-SU9 {
+  margin-bottom: 0.7rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .beauty-hsw .icon-ZHs {
+  margin: 0.5rem 0;
+  height: calc(100% - 1rem);
+  display: flex;
+  column-gap: 1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .beauty-hsw .icon-ZHs .item-1-tqw {
+  width: 5.5rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2000000212;
+  letter-spacing: 0.099rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #5c8692;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .beauty-hsw .icon-ZHs .item-2-mPw {
+  width: 5.5rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2000000212;
+  letter-spacing: 0.099rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #5c8692;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .beauty-hsw .icon-ZHs .item-3-qeh {
+  width: 5.5rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2000000212;
+  letter-spacing: 0.099rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #5c8692;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .beauty-hsw .icon-ZHs .item-4-vg9 {
+  width: 5.5rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.2000000602;
+  letter-spacing: 0.1045rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #5c8692;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.line-bnH {
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(255, 255, 255, 0.150000006);
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs {
+  height: 42.6rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .item-1-tWV {
+  margin-right: 16.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .item-1-tWV .explore-SY1 {
+  margin-bottom: 2.1rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3999999653;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .item-1-tWV .home-about-us-services-appointments-blog-contact-us-ynq {
+  max-width: 11.2rem;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 2;
+  letter-spacing: -0.017rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .item-2-6Mf {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .item-2-6Mf .utility-pages-3nh {
+  margin-bottom: 2.1rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3999999653;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .item-2-6Mf .utility_page {
+  max-width: 15.7rem;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 2;
+  letter-spacing: -0.017rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group {
+  box-sizing: border-box;
+  padding-left: 14rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 {
+  margin-right: 15.3rem;
+  width: 30rem;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .in_touch {
+  margin-bottom: 2.1rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3999999653;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .content-J6M {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .content-J6M .item-1-TE9 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .content-J6M .item-1-TE9 .address--DUD {
+  margin-right: 1.4rem;
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.017rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .content-J6M .item-1-TE9 .Kingston_Addr {
+  max-width: 21rem;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.017rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .content-J6M .auto-group-v6b3-FA1 {
+  box-sizing: border-box;
+  padding-top: 2.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .content-J6M .auto-group-v6b3-FA1 .item-2-Pn1 {
+  margin: 0rem 3.3rem 1.4rem 0rem;
+  width: calc(100% - 3.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .content-J6M .auto-group-v6b3-FA1 .item-2-Pn1 .mail--KvZ {
+  margin-right: 4.7rem;
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.017rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .content-J6M .auto-group-v6b3-FA1 .item-2-Pn1 .supportdoctorscom-47T {
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.7000000898;
+  letter-spacing: -0.017rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .content-J6M .auto-group-v6b3-FA1 .item-3-abb {
+  margin-right: 4rem;
+  width: calc(100% - 4rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .content-J6M .auto-group-v6b3-FA1 .item-3-abb .phone--8ND {
+  margin-right: 2.9rem;
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.017rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .itm_3 .content-J6M .auto-group-v6b3-FA1 .item-3-abb .item-22-123-4567-900-f7F {
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.7000000898;
+  letter-spacing: -0.017rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .item-4-N1f {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .item-4-N1f .working-hours-XQM {
+  margin-bottom: 2.1rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3999999653;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_container .footer_m .footer_content .content-P6Z .content-Ljs .aut_group .item-4-N1f .mon-to-fri-7am-6pm-sat-9am-7pm-sun-9am-6pm-sDK {
+  max-width: 16.6rem;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 2;
+  letter-spacing: -0.017rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main_container .footer_m .copyright-ATK {
+  width: 192rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0;
+  top: 56rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.018rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #101d22;
+}
+.main_container .footer_m .copyright-ATK .copyright-ATK-sub-0 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.018rem;
+  color: #ffffff;
+  font-family: Font Awesome 5 Free, 'Source Sans Pro';
+}
+.main_container .footer_m .copyright-ATK .copyright-ATK-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.018rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+}
+.main_container .footer_m .copyright-ATK .copyright-ATK-sub-2 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.018rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+} 
+ 
+ @media (max-width:1366) {
+  .main_container, .header_container, .content-Dan .header-Dan{
+     width: 100% ;
+     height: auto;
+  }
+} 
