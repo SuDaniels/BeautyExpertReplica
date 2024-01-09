@@ -17,7 +17,7 @@ body {
   width: 192rem;
 }
 .main_container {
-  width: 100%;
+  width: 192rem;
   overflow: hidden;
   position: relative;
   align-items: center;
@@ -26,7 +26,7 @@ body {
   background-color: #fffaf6;
 }
 .main_container .header_container {
-  width: 100%;
+  width: 192rem;
   align-items: center;
   display: flex;
   flex-direction: column;
